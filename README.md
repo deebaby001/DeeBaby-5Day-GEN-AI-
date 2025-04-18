@@ -3,6 +3,10 @@ My Final Project for my 5Day GEN AI Project with Kaggle
 
 [!Agriculture Satellite Image](https://github.com/deebaby001/DeeBaby-5Day-GEN-AI-/blob/main/satelite-imagery-in-farming_farm-management_forestry-management.jpg)
 
+
+![Agriculture Satellite Image](https://github.com/deebaby001/DeeBaby-5Day-GEN-AI-/blob/main/satelite-imagery-in-farming_farm-management_forestry-management.jpg))
+
+
 # Agricultural Yield Forcasting: An Investigation of the use of GEN AI to evaluate Geographical Imagery
 
 STATEMENT of PURPOSE
