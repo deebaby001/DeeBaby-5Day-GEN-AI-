@@ -1,10 +1,7 @@
 # DeeBaby-5Day-GEN-AI-
 My Final Project for my 5Day GEN AI Project with Kaggle
 
-[!Agriculture Satellite Image](https://github.com/deebaby001/DeeBaby-5Day-GEN-AI-/blob/main/satelite-imagery-in-farming_farm-management_forestry-management.jpg)
-
-
-![Agriculture Satellite Image](https://github.com/deebaby001/DeeBaby-5Day-GEN-AI-/blob/main/satelite-imagery-in-farming_farm-management_forestry-management.jpg))
+![Agriculture Satellite Image](https://github.com/deebaby001/DeeBaby-5Day-GEN-AI-/blob/main/satelite-imagery-in-farming_farm-management_forestry-management.jpg)
 
 
 # Agricultural Yield Forcasting: An Investigation of the use of GEN AI to evaluate Geographical Imagery
@@ -12,6 +9,8 @@ My Final Project for my 5Day GEN AI Project with Kaggle
 STATEMENT of PURPOSE
 
 Agricultural Satellite imagery plays a crucial role in achieving the United Nations Sustainable Development Goal 2: Zero Hunger. This goal is attained by enabling farmers and researchers to efficiently monitor large agricultural areas. This technology helps optimize crop management, improve yield predictions, and ensure food security on a large multi-regional scale.
+
+
 
 USE CASE TOPIC
 
